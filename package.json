@@ -1,0 +1,18 @@
+{
+  "name": "exercice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "generate-password": "^1.7.1",
+    "node": "^23.5.0",
+    "nodemailer": "^6.9.16"
+  }
+}
